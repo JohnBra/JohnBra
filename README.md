@@ -4,8 +4,8 @@ Hi 👋 My name is John
 I'm a creator and developer
 ---------------------------
 
-* 🖥️  See my portfolio at [jebraat.com](https://jebraat.com)
-* ✉️  You can contact me via [Twitter](https://twitter.com/jebraat)
+* 🖥️  Check out my blog/website at [jebraat.com](https://jebraat.com)
+* ✉️  You can DM me via [Twitter](https://twitter.com/jebraat)
 * 🚀  I'm currently working on [Supatabs](https://supatabs.com)
 * 🧠  I'm learning marketing
 * 🤝  I'm open to collaborating on cool projects if you have any
