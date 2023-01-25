@@ -1,12 +1,6 @@
 * 🖥️ Check out my blog/website at [jebraat.com](https://jebraat.com)
 * ✉️  You can DM me via [Twitter](https://twitter.com/jebraat)
 * 🚀  I'm currently working on [Supatabs](https://supatabs.com)
-* 🧠  I'm learning marketing
-* 🤝  I'm open to collaborating on cool projects if you have any
-
-<a href="https://www.twitter.com/jebraat" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/jebraat?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 
 ### Socials
