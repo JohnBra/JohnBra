@@ -1,5 +1,5 @@
 * 🖥️ Check out my blog/website at [jebraat.com](https://jebraat.com)
-* 🚀 Some of the things I have built:
+* 🚀 Some of the things I have worked on:
    - [Supatabs](https://supatabs.com) - A chrome extension to get rid of tab clutter
    - [ShellBuddy](https://getshellbuddy.com) - A Raycast extension to convert natural language prompts to shell commands. [Code here](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy)
    - [Chronoshift](https://chronoshift.io) - The simplest way to find meeting times across mutliple timezones
