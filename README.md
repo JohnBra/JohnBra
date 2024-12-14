@@ -1,5 +1,5 @@
 * 🖥️ Check out my blog/website at [jebraat.com](https://jebraat.com)
-* 🚀 Some of the things I have worked on:
+* 🚀 Personal projects:
    - [vite-web-extension](https://github.com/JohnBra/vite-web-extension) - A minimal chrome/firefox extension template using React, TypeScript, Vite and TailwindCSS
    - [Send URL to Things3](https://github.com/JohnBra/url-to-things) - Chrome extension to create a new task in the Things3 app
 
