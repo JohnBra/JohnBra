@@ -9,7 +9,7 @@
    - [AI driven football player tracking system](https://www.next11.com/): Led the software development of the early access product; team of 5
    - [AI driven quality assurance in assembly lines](https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/anwproj/ki4tools.html): Designed a micro service architecture to ingest sensor data, label sensor data, classify data into actions and use sensor data to improve existing ML models
    - [Wireless sensors for environmental stations](https://www.iis.fraunhofer.de/en/ff/lv/iot-system/anwproj/ensiro.html): Developed a mobile app demo and marketing page
-   - [Timezone aware meeting organization tool](https://chronoshift.io): Designed and developed the web application
+   - [Timezone aware meeting organization tool](https://chronoshift.io): Designed and developed the web application including a reverse geocoding api
 
 
 ### Socials
